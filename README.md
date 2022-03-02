@@ -2,4 +2,4 @@
 
 https://www.kaggle.com/c/football-match-probability-prediction/overview
 
-This is aproach in this competition 
+This is approach in this competition 
